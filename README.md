@@ -12,11 +12,4 @@ These are the thinks I want to accomplish.
 * Exclude files and folders I specify (bin/obj/etc)
 * Add to right click menu in windows
 * Allow for rename of zip file during creation
-=======
-##Roadmap:
-These are the thinks I want to accomplish.
-* Zip up a directory and all sub-directories
-* Exclude hidden files
-* Add to right click menu in windows
-* Allow for renamimg of file during creation
 
