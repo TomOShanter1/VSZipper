@@ -5,6 +5,7 @@ This app zips up vs projects and solutions without unnecessary files/folders lik
 
 There isn't a way to install it yet.
 
+<<<<<<< HEAD
 ## Roadmap:
 These are the thinks I want to accomplish.
 * Zip up a directory and all sub-directories
@@ -12,3 +13,11 @@ These are the thinks I want to accomplish.
 * Exclude files and folders I specify (bin/obj/etc)
 * Add to right click menu in windows
 * Allow for rename of zip file during creation
+=======
+##Roadmap:
+These are the thinks I want to accomplish.
+* Zip up a directory and all sub-directories
+* Exclude hidden files
+* Add to right click menu in windows
+* Allow for renamimg of file during creation
+>>>>>>> 71712b1882c45bb2df8d2b4bcda985af8cc85b70
